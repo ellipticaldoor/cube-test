@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-Now install the fronted
+Now install the frontend
 ``` shell
 git clone https://github.com/ellipticaldoor/cube-frontend
 cd cube-frontend
