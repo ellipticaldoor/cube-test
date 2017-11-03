@@ -22,11 +22,6 @@ And you will have the app running.
 
 ![screenshot](https://raw.githubusercontent.com/ellipticaldoor/cube-test/master/screenshot.png)
 
-
-## About
-
-This project is divided in two parts. First the backend, a [node](https://nodejs.org/en/) app using the framework [feathersjs](https://feathersjs.com/).
-
 # Backend
 
 I decided to use the framework feathersjs because is a tool that allows fast development. This is thanks to its cli generator,
