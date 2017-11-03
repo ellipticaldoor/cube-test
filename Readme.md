@@ -24,9 +24,10 @@ And you will have the app running.
 
 # Backend
 
-I decided to use the framework feathersjs because is a tool that allows fast development. This is thanks to its cli generator,
+I decided to use the [Node.js](https://nodejs.org/en/) framework [Feathers](https://feathersjs.com/) for the backend.
 
-Other advantages of using feathers are:
+I choosed this tool because:
+  - CLI generator
   - Modular services
   - Use almost any database available (postgres, mongodb, etc...)
   - Full CRUD api generator based on database model
