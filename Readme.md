@@ -18,7 +18,9 @@ npm install
 npm run dev
 ```
 
-And should be able to see the app running.
+And you will have the app running.
+
+![screenshot](https://raw.githubusercontent.com/ellipticaldoor/cube-test/master/screenshot.png)
 
 
 ## About
